@@ -1,3 +1,3 @@
 # The-Price-Of-Life-
 GTA Style game 
-![Game](https://octodex.github.com/images/yaktocat.png)
+![Game](https://github.com/WilyMayo/The-Price-Of-Life-/blob/main/Images/Capture.JPG)
