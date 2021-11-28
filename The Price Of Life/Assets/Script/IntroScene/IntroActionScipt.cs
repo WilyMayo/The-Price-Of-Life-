@@ -4,11 +4,12 @@ using UnityEngine;
 
 public class IntroActionScipt : MonoBehaviour
 {
+    
     public AudioSource leftFoot;
     public AudioSource rightFoot;
     public bool steppingLeft = true; // check left foot first
     public GameObject mainChacater;
-    public float stepsOnZ = 0.014f;
+    public float stepsOnZ = 0.005f;
     public int stepsTaken;
 
     // Start is called before the first frame update
